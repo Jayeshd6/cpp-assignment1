@@ -1,0 +1,313 @@
+<--------The singly linked list--------->
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+The linked list is empty
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::2
+
+Enter the value to be inserted in front2
+Node with data 2 is inserted in linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::2
+
+Enter the value to be inserted in front4
+Node with data 4 is inserted in linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+4--->2
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::3
+
+Enter the value to be inserted in back55
+Node with data 55 is inserted in linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::3
+
+Enter the value to be inserted in back77
+Node with data 77 is inserted in linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+4--->2--->55--->77
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::4
+
+Enter the value to delete 4
+The node with value4is deleted from linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+2--->55--->77
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::2
+
+Enter the value to be inserted in front776
+Node with data 776 is inserted in linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+776--->2--->55--->77
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::4
+
+Enter the value to delete 2
+The node with value 2 is deleted from linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+776--->55--->77
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::3
+
+Enter the value to be inserted in back654
+Node with data 654 is inserted in linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+776--->55--->77--->654
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::5
+
+Enter the value to search 55
+The Node with the value 55 is present in the linked list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::5
+
+Enter the value to search 22
+The Node with value-22 is not present in the list
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::6
+
+The list is rerevsed
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+654--->77--->55--->776
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::6
+
+The list is rerevsed
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::1
+
+<----The Linked list---->
+776--->55--->77--->654
+
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::9
+
+Enter the correct choices
+The options are::
+1.To print the linked list
+2.To insert at front of linked list
+3.To insert at end of linked list
+4.To Delete node by value
+5.To search the node is present in linked list
+6.To reverse the linked list
+7.To quit
+
+Enter the choice::7
+quitted

@@ -11,7 +11,7 @@ class Node{                         //node class
         next=NULL;
     }
     public:
-    friend class SLL;
+    friend class SLL;      //friend class SLL
     
 };
 class SLL{               //Singly linked list class
@@ -92,6 +92,7 @@ class SLL{               //Singly linked list class
 
         }
         void reverse_list(){       //reverse the linked list
+            if(head==NULL) {cout<<"The list is empty"<<endl; return;}
             Node* prev=NULL;
             Node* curr=head;
             while(curr!=NULL){
@@ -101,6 +102,7 @@ class SLL{               //Singly linked list class
                 curr=temp;
             }
             head=prev;
+            cout<<"The list is rerevsed";
         }
 };
 int main(){                     //main function
@@ -149,7 +151,7 @@ int main(){                     //main function
         else if(ch==6){
             list.reverse_list();
         }
-        else if(ch==7) break;
+        else if(ch==7){ cout<<"quitted"; break;}
         else {
             cout<<"Enter the correct choices";
         }
@@ -157,6 +159,4 @@ int main(){                     //main function
     }while(ch!=7);
     
     return 0;
-
-
 }
