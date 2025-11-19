@@ -29,7 +29,7 @@ class SLL{               //Singly linked list class
                     temp->next=head;
                     head=temp;
                 }
-                cout<<"Node with data is inserted in linked list"<<endl;
+                cout<<"Node with data "<<val<<" is inserted in linked list"<<endl;
         }
         void insert_back(int val){      //insert at end method
                  if(head==NULL){         //linked list is empty
@@ -45,6 +45,7 @@ class SLL{               //Singly linked list class
                     curr->next=temp;
                     
                 }    
+                cout<<"Node with data "<<val<< " is inserted in linked list"<<endl;
         }
         void delete_value(int val){   //deletion for given value
                 if(head==NULL) cout<<"The linked list is empty"<<endl;
@@ -56,14 +57,15 @@ class SLL{               //Singly linked list class
                 }
                 else{
                     Node* curr=head;
-                    while(curr->next!=NULL && curr->next->data==val){
+                    while(curr->next!=NULL && curr->next->data!=val){
                         curr=curr->next;
                     }
                     if(curr->next==NULL) cout<<"The Node with value-"<<val<<" is not present in the list"<<endl;   
                     else {
                         Node* temp=curr->next;
                         curr->next=curr->next->next;
-                        cout<<"The node with value"<<val<<"is deleted from linked list"<<endl;
+                        cout<<"The node with value "<<val<<" is deleted from linked list"<<endl;
+                        delete temp;
                         
 
                     }
@@ -107,7 +109,7 @@ int main(){                     //main function
     int ch;
     do{
         cout<<"The options are::"<<endl;
-        cout<<"1.To print th linked list"<<endl;
+        cout<<"1.To print the linked list"<<endl;
         cout<<"2.To insert at front of linked list"<<endl;
         cout<<"3.To insert at end of linked list"<<endl;
         cout<<"4.To Delete node by value"<<endl;
@@ -134,7 +136,7 @@ int main(){                     //main function
         }
         else if(ch==4){
             int val;
-            cout<<"Enter the value to  delete ";
+            cout<<"Enter the value to delete ";
             cin>>val;                                
             list.delete_value(val);
         }
@@ -142,7 +144,7 @@ int main(){                     //main function
             int val;
             cout<<"Enter the value to search ";
             cin>>val;                                
-            list.delete_value(val);
+            list.search_value(val);
         }
         else if(ch==6){
             list.reverse_list();
