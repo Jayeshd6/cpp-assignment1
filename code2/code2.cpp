@@ -49,7 +49,7 @@ class circular_queue{
 
         }
         else front++;
-        cout<<"The elemnt with value-- "<<ele<<" is removed from circular queue"<<endl;
+        cout<<"The element with value-- "<<ele<<" is removed from circular queue"<<endl;
 
     }
     void getpeek(){      // get peek form circular queue
@@ -93,7 +93,7 @@ int main(){        //main function
         cout<<"1.To enqueue the element in circualr queue"<<endl;
         cout<<"2.To dequeue the element from circular queue"<<endl;
         cout<<"3.To get the peek(front) element"<<endl;
-        cout<<"4.To print the elements of circualr queue"<<endl;
+        cout<<"4.To print the elements of circular queue"<<endl;
         cout<<"5.To quit"<<endl;
         cout<<"Enter the choice";
         cin>>choice;
