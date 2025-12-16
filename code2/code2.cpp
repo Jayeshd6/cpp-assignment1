@@ -71,7 +71,9 @@ class circular_queue{
 
  
 };
-int main(){
+int main(){        //main function 
+    cout<<"<--The Circular Queue-->"<<endl;
+
     cout<<"Enter the capcity of circular queue"<<endl;
     int capacity;
     cin>>capacity;
