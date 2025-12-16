@@ -1,0 +1,201 @@
+<--The Circular Queue-->
+Enter the capcity of circular queue
+4
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue45
+The element with value 45is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice4
+The circular queue--
+45
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue3456
+The element with value 3456is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice4
+The circular queue--
+45 3456
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1345
+Enter the valid choice
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue77
+The element with value 77is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice4
+The circular queue--
+45 3456 77
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue66
+The element with value 66is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice4
+The circular queue--
+45 3456 77 66
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice2
+The elemnt with value-- 45 is removed from circular queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice4 
+The circular queue--
+3456 77 66
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice3
+The element in the fornt is 3456
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice8
+Enter the valid choice
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice2
+The elemnt with value-- 3456 is removed from circular queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice2
+The elemnt with value-- 77 is removed from circular queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice2
+The elemnt with value-- 66 is removed from circular queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice2
+Underflow--The queue is empty
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue5
+The element with value 5is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue43
+The element with value 43is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1 
+Enter the element to insert in the queue35
+The element with value 35is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue35
+The element with value 35is added in the queue
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice1
+Enter the element to insert in the queue456
+Overflow--The queue is full
+The choices are--
+1.To enqueue the element in circualr queue
+2.To dequeue the element from circular queue
+3.To get the peek(front) element
+4.To print the elements of circualr queue
+5.To quit
+Enter the choice5
+quitted

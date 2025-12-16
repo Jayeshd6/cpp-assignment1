@@ -20,7 +20,7 @@ class circular_queue{
 
     }
     bool is_full(){                               //check ---->full function 
-        if(rear+1==front || (rear=capcity-1 && front==0)) return true;
+        if(rear+1==front || (rear==capcity-1 && front==0)) return true;
         else return false;
 
     }
@@ -48,6 +48,7 @@ class circular_queue{
             front=0;
 
         }
+        else front++;
         cout<<"The elemnt with value-- "<<ele<<" is removed from circular queue"<<endl;
 
     }
@@ -58,14 +59,22 @@ class circular_queue{
     }
     void printqueue(){    //printing the circular queue
         if(is_empty()) {cout<<"The Circular queue is empty"<<endl; return;}
+         cout<<"The circular queue--"<<endl;
+        if(rear==front){
+            cout<<arr[front];
+
+        }
+        
         else {
-            cout<<"The circular queue---"<<endl;
+           
             int i=front;
             do{
-                cout<<arr[i];
+                cout<<arr[i]<<" ";
                 i=(i+1)%capcity;
             }while(i!=rear);
+            cout<<arr[rear]<<" ";
         }  
+        cout<<endl;
     }
 
 
